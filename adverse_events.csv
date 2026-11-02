@@ -1,0 +1,4 @@
+ae_id,participant_id,term,severity,reported_date,outcome
+AE01,SUB001,Headache,mild,2026-02-01,resolved
+AE02,SUB002,Nausea,moderate,,ongoing
+AE03,SUB003,Dizziness,,2026-02-06,resolved

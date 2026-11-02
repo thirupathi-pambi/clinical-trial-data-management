@@ -1,0 +1,21 @@
+{
+  "participants": 3,
+  "planned_visits": 6,
+  "completed_visits": 5,
+  "completion_rate_pct": 83.3,
+  "adverse_events": 3,
+  "queries": [
+    {
+      "type": "missing_visit_completion",
+      "record": "SUB002:Week 4"
+    },
+    {
+      "type": "missing_ae_reported_date",
+      "record": "AE02"
+    },
+    {
+      "type": "missing_ae_severity",
+      "record": "AE03"
+    }
+  ]
+}

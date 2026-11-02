@@ -1,0 +1,7 @@
+participant_id,visit_name,scheduled_date,completed_date
+SUB001,Screening,2026-01-05,2026-01-05
+SUB001,Week 4,2026-02-02,2026-02-03
+SUB002,Screening,2026-01-06,2026-01-06
+SUB002,Week 4,2026-02-03,
+SUB003,Screening,2026-01-07,2026-01-08
+SUB003,Week 4,2026-02-04,2026-02-04
