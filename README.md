@@ -29,5 +29,4 @@ Clinical data management, EDC concepts, data quality, Python, SQL, GCP awareness
 All records, facilities, identifiers, events and organizations in this repository are fabricated for demonstrations. This is **not** a production clinical system and does not contain real protected health information (PHI). Do not upload real patient data or confidential employer files. Outputs do not substitute for clinical, privacy, security, or regulatory review.
 
 
-## License
-MIT — see [LICENSE](LICENSE).
+
